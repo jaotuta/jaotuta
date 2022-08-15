@@ -4,7 +4,7 @@
   <a href="https://jaotuta.github.io/portf-page/" target="_blank">
   <div>
   Conheça mais sobre mim aqui --> 
-  <img height="23em" src="https://icon-library.com/images/88ef75a99c.svg.svg">
+  <img height="23em" src="https://p.kindpng.com/picc/s/346-3466598_white-icons-book-icon-hd-png-download.png">
   </div>
   </a>
   
