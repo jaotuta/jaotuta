@@ -4,7 +4,7 @@
   <a href="https://jaotuta.github.io/portf-page/" target="_blank">
   <div>
   Conheça mais sobre mim aqui --> 
-  <img height="23em" src="https://i.pinimg.com/originals/d7/44/78/d74478fc0b6d42a3cbf23face4628894.png">
+  <img height="23em" src="https://coach-unlimited.co.uk/wp-content/uploads/2017/10/Info-icon-WHITE-NO-BACKGROUND.png">
   </div>
   </a>
   
