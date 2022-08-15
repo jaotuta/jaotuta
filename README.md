@@ -3,8 +3,8 @@
   
   <a href="https://jaotuta.github.io/portf-page/" target="_blank">
   <div>
-  Conheça mais sobre mim aqui!!! 
-  <img height="23em" src="https://e7.pngegg.com/pngimages/389/412/png-clipart-font-awesome-computer-icons-user-profile-users-group-blind-miscellaneous-blue.png">
+  Conheça mais sobre mim aqui --> 
+  <img height="23em" src="https://icon-library.com/images/88ef75a99c.svg.svg">
   </div>
   </a>
   
@@ -12,6 +12,7 @@
 
   <div>
   <a href="https://www.linkedin.com/in/joaolucascruz91" target="_blank">
+    Ou Aqui --> 
   <img height="23em" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
   </a>
   </div>
