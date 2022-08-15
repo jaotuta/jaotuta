@@ -2,9 +2,9 @@
 ### Oi, eu sou o João 👋
   
   <a href="https://jaotuta.github.io/portf-page/" target="_blank">
-  <div>
+  <div style = " top-margin: 23px; ">
   Conheça mais sobre mim aqui --> 
-  <img height="23em" src="https://coach-unlimited.co.uk/wp-content/uploads/2017/10/Info-icon-WHITE-NO-BACKGROUND.png">
+  <img height="35em" src="https://coach-unlimited.co.uk/wp-content/uploads/2017/10/Info-icon-WHITE-NO-BACKGROUND.png">
   </div>
   </a>
   
